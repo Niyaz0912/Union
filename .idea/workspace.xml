@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37926471-84c2-490b-9f6f-d119834f4086" name="Changes" comment="Инициализирован новый проект Union, для записей sql запросов в БД Products">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_14_6.sql" beforeDir="false" afterPath="$PROJECT_DIR$/task_14_6.sql" afterDir="false" />
-    </list>
+    <list default="true" id="37926471-84c2-490b-9f6f-d119834f4086" name="Changes" comment="Была написан файл с task_14_6.sql с SQL запросами по домашней работе" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,11 +59,20 @@
       <option name="project" value="LOCAL" />
       <updated>1726764886637</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Была написан файл с task_14_6.sql с SQL запросами по домашней работе">
+      <option name="closed" value="true" />
+      <created>1726781267449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726781267449</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Инициализирован новый проект Union, для записей sql запросов в БД Products" />
-    <option name="LAST_COMMIT_MESSAGE" value="Инициализирован новый проект Union, для записей sql запросов в БД Products" />
+    <MESSAGE value="Была написан файл с task_14_6.sql с SQL запросами по домашней работе" />
+    <option name="LAST_COMMIT_MESSAGE" value="Была написан файл с task_14_6.sql с SQL запросами по домашней работе" />
   </component>
 </project>
